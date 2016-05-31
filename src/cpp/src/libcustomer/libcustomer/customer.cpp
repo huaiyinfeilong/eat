@@ -5,5 +5,5 @@
 
 LIBEATAPI LPCSTR APIENTRY GetStoreTitleA()
 {
-	return "";
+	return "ºÃ³Ôµã";
 }
