@@ -1,0 +1,6 @@
+﻿  main.cpp
+  customer.cpp
+  正在生成代码...
+export.def(3): warning LNK4017: GetStoreTitleA 语句不支持目标平台；已忽略
+    正在创建库 e:\eat\src\cpp\src\libcustomer\Debug\libcustomer.lib 和对象 e:\eat\src\cpp\src\libcustomer\Debug\libcustomer.exp
+  libcustomer.vcxproj -> e:\eat\src\cpp\src\libcustomer\Debug\libcustomer.dll
